@@ -1,0 +1,228 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+ @media (max-width: 575.98px) {
+     /* header start */
+
+     /* header end */
+
+     /* campaing start */
+
+     .container_text h1 {
+         font-size: 40px;
+         word-spacing: 0px;
+         letter-spacing: 3px;
+     }
+
+     .container_text p {
+         font-size: 13px;
+         word-spacing: 2px;
+         letter-spacing: 2px;
+     }
+
+
+     /* campaing end */
+     /* services start */
+     /* 1st row */
+
+     /* services end */
+     /* time counter start */
+     /* 1st row */
+     /* 2nd row */
+     /* time counter end */
+
+     /* News start */
+     /* 1st row */
+     .title6 h2 {
+         text-align: center;
+     }
+
+     .custom {
+         margin-left: 289px;
+
+     }
+
+     /* 2nd row */
+     .n_card {
+         margin-left: 150px;
+
+     }
+
+     .n_card-title {
+
+         letter-spacing: 0px;
+         word-spacing: 0px;
+
+     }
+
+     /* News end */
+
+ }
+
+ /* Small devices (landscape phones, 576px and up) */
+ @media (min-width: 576px) and (max-width: 767.98px) {
+     /* header start */
+
+     /* header end */
+     /* campaing start */
+     .container_text h1 {
+         font-size: 32px;
+         word-spacing: 0px;
+         letter-spacing: 7px;
+     }
+
+     .container_text p {
+         font-size: 13px;
+         word-spacing: 0px;
+         letter-spacing: 2px;
+     }
+
+
+     /* campaing end */
+     /* services start */
+     /* 1st row */
+
+     /* services end */
+     /* time counter start */
+     /* 1st row */
+     /* 2nd row */
+     /* time counter end */
+     /* News start */
+     /* 1st row */
+     .title6 h2 {
+         text-align: center;
+     }
+
+     .custom {
+         margin-left: 289px;
+
+     }
+
+     /* 2nd row */
+     .n_card {
+         margin-left: 150px;
+
+     }
+
+     .n_card-title {
+
+         letter-spacing: 0px;
+         word-spacing: 0px;
+
+     }
+
+     /* News end */
+
+ }
+
+ /* Medium devices (tablets, 768px and up) */
+ @media (min-width: 768px) and (max-width: 991.98px) {
+     /* header start */
+
+     /* header end */
+     /* campaing start */
+     .container_text h1 {
+         font-size: 25px;
+         word-spacing: 0px;
+         letter-spacing: 2px;
+     }
+
+     .container_text p {
+         font-size: 13px;
+         word-spacing: 1px;
+         letter-spacing: 1px;
+     }
+
+     /* campaing end */
+     /* services start */
+     /* 1st row */
+     .title p {
+         word-spacing: -1px;
+     }
+
+     /* services end */
+     /* Time counter start*/
+     /* 2nd row */
+     .T_card {
+         padding: 25px;
+         padding-bottom: 25px;
+     }
+
+     /* Time counter end*/
+     /* teammates start */
+     /* 2nd row */
+     .team_card {
+         height: 200px;
+     }
+
+     .team_card i {
+         margin-top: 90px;
+     }
+
+     /* teammates end */
+     /* contributions start */
+     .title5 h2 {
+         font-size: 15px;
+         word-spacing: 3px;
+         letter-spacing: 0px;
+     }
+
+     /* contributions end */
+     /* News start */
+     /* 1st row */
+     .custom {
+         width: 18%;
+         margin-left: 150px;
+     }
+
+     .n_card {
+         margin-left: 30px;
+     }
+
+     /* News end */
+ }
+
+ /* Large devices (desktops, 992px and up) */
+ @media (min-width: 992px) and (max-width: 1199.98px) {
+
+     /* header start */
+     .btn-red {
+         padding: 1px 30px !important;
+     }
+
+     /* header end */
+     /* campaing start */
+     .container_text h1 {
+         font-size: 33px;
+         word-spacing: 2px;
+         letter-spacing: 4px;
+
+     }
+
+     .container_text p {
+         word-spacing: 2px;
+         letter-spacing: 2px;
+     }
+
+     /* campaing end */
+     /* services start */
+     /* 1st row */
+
+
+     /* services end */
+     /* Time counter start*/
+
+     /* Time counter end*/
+     /* contributions star */
+     .title5 h2 {
+         font-size: 18px;
+         word-spacing: 1px;
+         letter-spacing: 1px;
+     }
+
+     /* contributions end */
+     /* News start */
+
+     /* News end */
+ }
+
+ /* Extra large devices (large desktops, 1200px and up) */
+ @media (min-width: 1200px) {}
